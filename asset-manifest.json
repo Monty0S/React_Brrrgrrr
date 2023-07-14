@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/React_Brrrgrrr/static/css/main.2516f10f.css",
+    "main.js": "/React_Brrrgrrr/static/js/main.a463ed59.js",
+    "static/js/787.86e58d3c.chunk.js": "/React_Brrrgrrr/static/js/787.86e58d3c.chunk.js",
+    "static/media/beef4.jpg": "/React_Brrrgrrr/static/media/beef4.879155e06947f40ac4a4.jpg",
+    "static/media/patty.webp": "/React_Brrrgrrr/static/media/patty.cbc818bc56c2bc5f83df.webp",
+    "static/media/sesame.jpg": "/React_Brrrgrrr/static/media/sesame.e50647a47e52b3cc68a8.jpg",
+    "static/media/sheeep.jpg": "/React_Brrrgrrr/static/media/sheeep.2c8ad98c5928850bf5db.jpg",
+    "static/media/Cheddar.jpg": "/React_Brrrgrrr/static/media/Cheddar.196b8ad5fdd434d6ce16.jpg",
+    "static/media/mushrooms.jpg": "/React_Brrrgrrr/static/media/mushrooms.12989b78b5a960ede3cd.jpg",
+    "static/media/lambbb.jpg": "/React_Brrrgrrr/static/media/lambbb.1e84b4a532cab663a49f.jpg",
+    "static/media/veg-burger.webp": "/React_Brrrgrrr/static/media/veg-burger.924192cecc7468b0d60a.webp",
+    "static/media/mushroom-swiss.jpg": "/React_Brrrgrrr/static/media/mushroom-swiss.ad038adbd6355c9c4daf.jpg",
+    "static/media/burger-2.jpg": "/React_Brrrgrrr/static/media/burger-2.db3593ab2ff2827bb9af.jpg",
+    "static/media/parmesan.jpg": "/React_Brrrgrrr/static/media/parmesan.70734c828067b23464d8.jpg",
+    "static/media/beef3.jpg": "/React_Brrrgrrr/static/media/beef3.842b548729288bbfe994.jpg",
+    "static/media/chicken-burger2.jpg": "/React_Brrrgrrr/static/media/chicken-burger2.a9727fbedf92af691806.jpg",
+    "static/media/onions.jpg": "/React_Brrrgrrr/static/media/onions.e1e886ff813d9090d41f.jpg",
+    "static/media/cheese-burger.jpg": "/React_Brrrgrrr/static/media/cheese-burger.38c8a0b4be52a7be0953.jpg",
+    "static/media/leaf.jpg": "/React_Brrrgrrr/static/media/leaf.64b697d16723f9070e0b.jpg",
+    "index.html": "/React_Brrrgrrr/index.html",
+    "main.2516f10f.css.map": "/React_Brrrgrrr/static/css/main.2516f10f.css.map",
+    "main.a463ed59.js.map": "/React_Brrrgrrr/static/js/main.a463ed59.js.map",
+    "787.86e58d3c.chunk.js.map": "/React_Brrrgrrr/static/js/787.86e58d3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2516f10f.css",
+    "static/js/main.a463ed59.js"
+  ]
+}
