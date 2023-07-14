@@ -1,0 +1,48 @@
+.carousel-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 5px;
+  flex: 1;
+  position: relative;
+}
+
+.slide-image {
+  min-width: 8vh;
+  max-width: 800px;
+  max-height: 450px;
+}
+
+.carousel {
+  width: 60%; /* Adjust the width of the carousel */
+}
+
+.text-container {
+  width: 30%; /* Adjust the width of the text container */
+  font-family: 'Roboto', sans-serif;
+  color: aliceblue;
+  text-shadow: -1px 1px 10px rgba(0, 0, 0, 0.75);
+}
+
+.my-carousel .carousel .slider-wrapper {
+  justify-content: flex-start;
+}
+
+@media (max-width: 1024px) {
+  .carousel-container {
+    flex-direction: column;
+  }
+
+  .carousel {
+    width: 100%;
+  }
+
+  .text-container {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .slide-image {
+    max-height: 300px; /* Adjust the max-height for smaller devices */
+  }
+}

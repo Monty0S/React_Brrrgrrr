@@ -1,0 +1,98 @@
+.burgbuilder{
+    max-height: 190vh;
+    min-height: 90vh;
+    display: flex;
+    padding-left: 10px;
+    align-items: left;
+    flex-direction: column-reverse;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex: 1;
+}
+
+.payb{
+    background-color: gold;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 50px;
+    width: 180px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+
+.payb:hover{
+    background-color: goldenrod;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+}
+
+.cardchoose{
+    max-width: 390px;
+    min-width: 190px;
+    min-height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-shadow: -1px 1px 10px rgba(0, 0, 0, 0.75);
+    margin: 10px;
+    font-size: 18px;
+}
+
+.pricecomp{
+    background-color: goldenrod;
+    text-shadow: -1px 1px 10px rgba(0, 0, 0, 0.75);
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 13px;
+    padding-left: 22px;
+}
+
+@media only screen and (max-width:600px){
+    .burgbuilder {
+        justify-content: center;
+        align-items: center;
+        height: 113vh;
+        max-height: 200vh;
+    }
+    .cardchoose{
+        max-width: 100px;
+        min-width: 90px;
+        min-height: 100px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: white;
+        text-shadow: -1px 1px 10px rgba(0, 0, 0, 0.75);
+        margin: 10px;
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-height:844px){
+    .burgbuilder {
+        min-height: 130vh;
+    }
+}
+
+@media only screen and (max-height:668px){
+    .burgbuilder {
+        min-height: 150vh;
+    }
+}
+
+@media only screen and (min-width:800px){
+    .burgbuilder {
+        max-height: 990vh;
+        min-height: 100vh;
+    }
+}
+
